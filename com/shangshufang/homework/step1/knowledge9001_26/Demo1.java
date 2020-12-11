@@ -20,8 +20,4 @@ public class Demo1 {
         System.out.println("分: " + minute);
         System.out.println("秒: " + seconds);
     }
-
-    private static void println(Object s) {
-        System.out.println(s);
-    }
 }
